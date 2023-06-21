@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EgonSirka
+- 👋 Hi, I’m @OndraHemr, a post-graduate at Mendel University in Brno, Czechia
 - 👀 I’m interested in hydrological modeling, mostly in a forest environment. 
-- 🌱 I’m currently learning the basics in software tools PERSiST, HBV and Hydrus
+- 🌱 I’m currently learning the basics in PERSiST, HBV, ICBM and DayCENT tools/models/codes
 - 📫 Reach me at ondrejhemr@gmail.com
 
 <!---
